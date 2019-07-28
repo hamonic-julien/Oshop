@@ -1,0 +1,1 @@
+<h1>Type du produit</h1>
